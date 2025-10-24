@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- This defines the output as a console application -->
+    <OutputType>Exe</OutputType>
+
+    <!-- The target .NET version used by this project -->
+    <TargetFramework>net6.0</TargetFramework>
+
+    <!-- Enables automatic namespace and library usage -->
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <!-- Enables null safety features -->
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
